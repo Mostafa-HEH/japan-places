@@ -138,7 +138,7 @@ main header a, main header a:active {
     margin-top: 150px;
   }
   main header h1 {
-    color: #ffffff;
+    color: aliceblue;
   }
 }
 
@@ -172,21 +172,21 @@ main header a, main header a:active {
     margin-top: 72px;
   }
   main header h1 {
-    color: #ffffff;
+    color: aliceblue;
   }
 }
 
 @media (max-width: 568px) {
   main header h1 {
     font-size: 3rem;
-    color: #ffffff;
+    color: aliceblue;
   }
 }
 
 @media (max-width: 475px) {
   main header h1 {
     font-size: 2rem;
-    color: #ffffff;
+    color: aliceblue;
   }
 }
 /*# sourceMappingURL=style.css.map */
